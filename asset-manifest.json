@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/MessageBoard/static/css/main.8a1a1f0f.css",
+    "main.js": "/MessageBoard/static/js/main.5cc73ee5.js",
+    "index.html": "/MessageBoard/index.html",
+    "main.8a1a1f0f.css.map": "/MessageBoard/static/css/main.8a1a1f0f.css.map",
+    "main.5cc73ee5.js.map": "/MessageBoard/static/js/main.5cc73ee5.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8a1a1f0f.css",
+    "static/js/main.5cc73ee5.js"
+  ]
+}
